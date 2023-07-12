@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "name": "todo-app-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
